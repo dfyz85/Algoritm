@@ -1,0 +1,1748 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2010 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.com/ and http://typo3.org/
+-->
+
+
+
+<title>Briese Schiffahrts GmbH &amp; Co. KG: Fleet</title>
+<meta name="generator" content="TYPO3 4.4 CMS">
+<link rel="stylesheet" type="text/css" href="http://briese.de/typo3temp/stylesheet_e33797f21c.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://briese.de/fileadmin/templates/briese.css" media="all">
+<script src="http://briese.de/typo3temp/javascript_0b12553063.js" type="text/javascript"></script>
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+-->
+</style>
+<link rel="stylesheet" href="http://briese.de/typo3conf/ext/perfectlightbox/res/css/slightbox.css" type="text/css" media="screen,projection">
+<script type="text/javascript" src="http://briese.de/typo3conf/ext/perfectlightbox/res/js/prototype-packed.js"></script>
+<script type="text/javascript" src="http://briese.de/typo3conf/ext/perfectlightbox/res/js/scriptaculousEffects-packed.js?load=effects"></script>
+<script type="text/javascript" src="http://briese.de/typo3conf/ext/perfectlightbox/res/js/lightbox-packed.js" type="text/javascript"></script><script type="text/javascript">	var borderSize = 10;
+	var resizeSpeed = 400;
+	var animate = true;
+	var overlayOpacity = 0.8;
+	var allowSave = false;
+	var enableSlideshowAutoplay = true;
+	var slideshowAutoclose = true;
+	var slideshowInterval = 5000;
+	var lllImage = 'Image';
+	var lllOf = 'of';</script>
+
+
+<style class="firebugResetStyles" type="text/css" charset="utf-8">/* See license.txt for terms of usage */
+/** reset styling **/
+.firebugResetStyles {
+    z-index: 2147483646 !important;
+    top: 0 !important;
+    left: 0 !important;
+    display: block !important;
+    border: 0 none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    outline: 0 !important;
+    min-width: 0 !important;
+    max-width: none !important;
+    min-height: 0 !important;
+    max-height: none !important;
+    position: fixed !important;
+    transform: rotate(0deg) !important;
+    transform-origin: 50% 50% !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    background: transparent none !important;
+    pointer-events: none !important;
+    white-space: normal !important;
+}
+style.firebugResetStyles {
+    display: none !important;
+}
+
+.firebugBlockBackgroundColor {
+    background-color: transparent !important;
+}
+
+.firebugResetStyles:before, .firebugResetStyles:after {
+    content: "" !important;
+}
+/**actual styling to be modified by firebug theme**/
+.firebugCanvas {
+    display: none !important;
+}
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+.firebugLayoutBox {
+    width: auto !important;
+    position: static !important;
+}
+
+.firebugLayoutBoxOffset {
+    opacity: 0.8 !important;
+    position: fixed !important;
+}
+
+.firebugLayoutLine {
+    opacity: 0.4 !important;
+    background-color: #000000 !important;
+}
+
+.firebugLayoutLineLeft, .firebugLayoutLineRight {
+    width: 1px !important;
+    height: 100% !important;
+}
+
+.firebugLayoutLineTop, .firebugLayoutLineBottom {
+    width: 100% !important;
+    height: 1px !important;
+}
+
+.firebugLayoutLineTop {
+    margin-top: -1px !important;
+    border-top: 1px solid #999999 !important;
+}
+
+.firebugLayoutLineRight {
+    border-right: 1px solid #999999 !important;
+}
+
+.firebugLayoutLineBottom {
+    border-bottom: 1px solid #999999 !important;
+}
+
+.firebugLayoutLineLeft {
+    margin-left: -1px !important;
+    border-left: 1px solid #999999 !important;
+}
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+.firebugLayoutBoxParent {
+    border-top: 0 none !important;
+    border-right: 1px dashed #E00 !important;
+    border-bottom: 1px dashed #E00 !important;
+    border-left: 0 none !important;
+    position: fixed !important;
+    width: auto !important;
+}
+
+.firebugRuler{
+    position: absolute !important;
+}
+
+.firebugRulerH {
+    top: -15px !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 14px !important;
+    background: url("data:image/png,%89PNG%0D%0A%1A%0A%00%00%00%0DIHDR%00%00%13%88%00%00%00%0E%08%02%00%00%00L%25a%0A%00%00%00%04gAMA%00%00%D6%D8%D4OX2%00%00%00%19tEXtSoftware%00Adobe%20ImageReadyq%C9e%3C%00%00%04%F8IDATx%DA%EC%DD%D1n%E2%3A%00E%D1%80%F8%FF%EF%E2%AF2%95%D0D4%0E%C1%14%B0%8Fa-%E9%3E%CC%9C%87n%B9%81%A6W0%1C%A6i%9A%E7y%0As8%1CT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AATE9%FE%FCw%3E%9F%AF%2B%2F%BA%97%FDT%1D~K(%5C%9D%D5%EA%1B%5C%86%B5%A9%BDU%B5y%80%ED%AB*%03%FAV9%AB%E1%CEj%E7%82%EF%FB%18%BC%AEJ8%AB%FA'%D2%BEU9%D7U%ECc0%E1%A2r%5DynwVi%CFW%7F%BB%17%7Dy%EACU%CD%0E%F0%FA%3BX%FEbV%FEM%9B%2B%AD%BE%AA%E5%95v%AB%AA%E3E5%DCu%15rV9%07%B5%7F%B5w%FCm%BA%BE%AA%FBY%3D%14%F0%EE%C7%60%0EU%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5JU%88%D3%F5%1F%AE%DF%3B%1B%F2%3E%DAUCNa%F92%D02%AC%7Dm%F9%3A%D4%F2%8B6%AE*%BF%5C%C2Ym~9g5%D0Y%95%17%7C%C8c%B0%7C%18%26%9CU%CD%13i%F7%AA%90%B3Z%7D%95%B4%C7%60%E6E%B5%BC%05%B4%FBY%95U%9E%DB%FD%1C%FC%E0%9F%83%7F%BE%17%7DkjMU%E3%03%AC%7CWj%DF%83%9An%BCG%AE%F1%95%96yQ%0Dq%5Dy%00%3Et%B5'%FC6%5DS%95pV%95%01%81%FF'%07%00%00%00%00%00%00%00%00%00%F8x%C7%F0%BE%9COp%5D%C9%7C%AD%E7%E6%EBV%FB%1E%E0(%07%E5%AC%C6%3A%ABi%9C%8F%C6%0E9%AB%C0'%D2%8E%9F%F99%D0E%B5%99%14%F5%0D%CD%7F%24%C6%DEH%B8%E9rV%DFs%DB%D0%F7%00k%FE%1D%84%84%83J%B8%E3%BA%FB%EF%20%84%1C%D7%AD%B0%8E%D7U%C8Y%05%1E%D4t%EF%AD%95Q%BF8w%BF%E9%0A%BF%EB%03%00%00%00%00%00%00%00%00%00%B8vJ%8E%BB%F5%B1u%8Cx%80%E1o%5E%CA9%AB%CB%CB%8E%03%DF%1D%B7T%25%9C%D5(%EFJM8%AB%CC'%D2%B2*%A4s%E7c6%FB%3E%FA%A2%1E%80~%0E%3E%DA%10x%5D%95Uig%15u%15%ED%7C%14%B6%87%A1%3B%FCo8%A8%D8o%D3%ADO%01%EDx%83%1A~%1B%9FpP%A3%DC%C6'%9C%95gK%00%00%00%00%00%00%00%00%00%20%D9%C9%11%D0%C0%40%AF%3F%EE%EE%92%94%D6%16X%B5%BCMH%15%2F%BF%D4%A7%C87%F1%8E%F2%81%AE%AAvzr%DA2%ABV%17%7C%E63%83%E7I%DC%C6%0Bs%1B%EF6%1E%00%00%00%00%00%00%00%00%00%80cr%9CW%FF%7F%C6%01%0E%F1%CE%A5%84%B3%CA%BC%E0%CB%AA%84%CE%F9%BF)%EC%13%08WU%AE%AB%B1%AE%2BO%EC%8E%CBYe%FE%8CN%ABr%5Dy%60~%CFA%0D%F4%AE%D4%BE%C75%CA%EDVB%EA(%B7%F1%09g%E5%D9%12%00%00%00%00%00%00%00%00%00H%F6%EB%13S%E7y%5E%5E%FB%98%F0%22%D1%B2'%A7%F0%92%B1%BC%24z3%AC%7Dm%60%D5%92%B4%7CEUO%5E%F0%AA*%3BU%B9%AE%3E%A0j%94%07%A0%C7%A0%AB%FD%B5%3F%A0%F7%03T%3Dy%D7%F7%D6%D4%C0%AAU%D2%E6%DFt%3F%A8%CC%AA%F2%86%B9%D7%F5%1F%18%E6%01%F8%CC%D5%9E%F0%F3z%88%AA%90%EF%20%00%00%00%00%00%00%00%00%00%C0%A6%D3%EA%CFi%AFb%2C%7BB%0A%2B%C3%1A%D7%06V%D5%07%A8r%5D%3D%D9%A6%CAu%F5%25%CF%A2%99%97zNX%60%95%AB%5DUZ%D5%FBR%03%AB%1C%D4k%9F%3F%BB%5C%FF%81a%AE%AB'%7F%F3%EA%FE%F3z%94%AA%D8%DF%5B%01%00%00%00%00%00%00%00%00%00%8E%FB%F3%F2%B1%1B%8DWU%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*UiU%C7%BBe%E7%F3%B9%CB%AAJ%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5J%95*U%AAT%A9R%A5*%AAj%FD%C6%D4%5Eo%90%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5%86%AF%1B%9F%98%DA%EBm%BBV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%ADV%AB%D5j%B5Z%AD%D6%E4%F58%01%00%00%00%00%00%00%00%00%00%00%00%00%00%40%85%7F%02%0C%008%C2%D0H%16j%8FX%00%00%00%00IEND%AEB%60%82") repeat-x !important;
+    border-top: 1px solid #BBBBBB !important;
+    border-right: 1px dashed #BBBBBB !important;
+    border-bottom: 1px solid #000000 !important;
+}
+
+.firebugRulerV {
+    top: 0 !important;
+    left: -15px !important;
+    width: 14px !important;
+    height: 100% !important;
+    background: url("data:image/png,%89PNG%0D%0A%1A%0A%00%00%00%0DIHDR%00%00%00%0E%00%00%13%88%08%02%00%00%00%0E%F5%CB%10%00%00%00%04gAMA%00%00%D6%D8%D4OX2%00%00%00%19tEXtSoftware%00Adobe%20ImageReadyq%C9e%3C%00%00%06~IDATx%DA%EC%DD%D1v%A20%14%40Qt%F1%FF%FF%E4%97%D9%07%3BT%19%92%DC%40(%90%EEy%9A5%CB%B6%E8%F6%9Ac%A4%CC0%84%FF%DC%9E%CF%E7%E3%F1%88%DE4%F8%5D%C7%9F%2F%BA%DD%5E%7FI%7D%F18%DDn%BA%C5%FB%DF%97%BFk%F2%10%FF%FD%B4%F2M%A7%FB%FD%FD%B3%22%07p%8F%3F%AE%E3%F4S%8A%8F%40%EEq%9D%BE8D%F0%0EY%A1Uq%B7%EA%1F%81%88V%E8X%3F%B4%CEy%B7h%D1%A2E%EBohU%FC%D9%AF2fO%8BBeD%BE%F7X%0C%97%A4%D6b7%2Ck%A5%12%E3%9B%60v%B7r%C7%1AI%8C%BD%2B%23r%00c0%B2v%9B%AD%CA%26%0C%1Ek%05A%FD%93%D0%2B%A1u%8B%16-%95q%5Ce%DCSO%8E%E4M%23%8B%F7%C2%FE%40%BB%BD%8C%FC%8A%B5V%EBu%40%F9%3B%A72%FA%AE%8C%D4%01%CC%B5%DA%13%9CB%AB%E2I%18%24%B0n%A9%0CZ*Ce%9C%A22%8E%D8NJ%1E%EB%FF%8F%AE%CAP%19*%C3%BAEKe%AC%D1%AAX%8C*%DEH%8F%C5W%A1e%AD%D4%B7%5C%5B%19%C5%DB%0D%EF%9F%19%1D%7B%5E%86%BD%0C%95%A12%AC%5B*%83%96%CAP%19%F62T%86%CAP%19*%83%96%CA%B8Xe%BC%FE)T%19%A1%17xg%7F%DA%CBP%19*%C3%BA%A52T%86%CAP%19%F62T%86%CA%B0n%A9%0CZ%1DV%C6%3D%F3%FCH%DE%B4%B8~%7F%5CZc%F1%D6%1F%AF%84%F9%0F6%E6%EBVt9%0E~%BEr%AF%23%B0%97%A12T%86%CAP%19%B4T%86%CA%B8Re%D8%CBP%19*%C3%BA%A52huX%19%AE%CA%E5%BC%0C%7B%19*CeX%B7h%A9%0C%95%E1%BC%0C%7B%19*CeX%B7T%06%AD%CB%5E%95%2B%BF.%8F%C5%97%D5%E4%7B%EE%82%D6%FB%CF-%9C%FD%B9%CF%3By%7B%19%F62T%86%CA%B0n%D1R%19*%A3%D3%CA%B0%97%A12T%86uKe%D0%EA%B02*%3F1%99%5DB%2B%A4%B5%F8%3A%7C%BA%2B%8Co%7D%5C%EDe%A8%0C%95a%DDR%19%B4T%C66%82fA%B2%ED%DA%9FC%FC%17GZ%06%C9%E1%B3%E5%2C%1A%9FoiB%EB%96%CA%A0%D5qe4%7B%7D%FD%85%F7%5B%ED_%E0s%07%F0k%951%ECr%0D%B5C%D7-g%D1%A8%0C%EB%96%CA%A0%A52T%C6)*%C3%5E%86%CAP%19%D6-%95A%EB*%95q%F8%BB%E3%F9%AB%F6%E21%ACZ%B7%22%B7%9B%3F%02%85%CB%A2%5B%B7%BA%5E%B7%9C%97%E1%BC%0C%EB%16-%95%A12z%AC%0C%BFc%A22T%86uKe%D0%EA%B02V%DD%AD%8A%2B%8CWhe%5E%AF%CF%F5%3B%26%CE%CBh%5C%19%CE%CB%B0%F3%A4%095%A1%CAP%19*Ce%A8%0C%3BO*Ce%A8%0C%95%A12%3A%AD%8C%0A%82%7B%F0v%1F%2FD%A9%5B%9F%EE%EA%26%AF%03%CA%DF9%7B%19*Ce%A8%0C%95%A12T%86%CA%B8Ze%D8%CBP%19*Ce%A8%0C%95%D1ae%EC%F7%89I%E1%B4%D7M%D7P%8BjU%5C%BB%3E%F2%20%D8%CBP%19*Ce%A8%0C%95%A12T%C6%D5*%C3%5E%86%CAP%19*Ce%B4O%07%7B%F0W%7Bw%1C%7C%1A%8C%B3%3B%D1%EE%AA%5C%D6-%EBV%83%80%5E%D0%CA%10%5CU%2BD%E07YU%86%CAP%19*%E3%9A%95%91%D9%A0%C8%AD%5B%EDv%9E%82%FFKOee%E4%8FUe%A8%0C%95%A12T%C6%1F%A9%8C%C8%3D%5B%A5%15%FD%14%22r%E7B%9F%17l%F8%BF%ED%EAf%2B%7F%CF%ECe%D8%CBP%19*Ce%A8%0C%95%E1%93~%7B%19%F62T%86%CAP%19*Ce%A8%0C%E7%13%DA%CBP%19*Ce%A8%0CZf%8B%16-Z%B4h%D1R%19f%8B%16-Z%B4h%D1R%19%B4%CC%16-Z%B4h%D1R%19%B4%CC%16-Z%B4h%D1%A2%A52%CC%16-Z%B4h%D1%A2%A52h%99-Z%B4h%D1%A2%A52h%99-Z%B4h%D1%A2EKe%98-Z%B4h%D1%A2EKe%D02%5B%B4h%D1%A2EKe%D02%5B%B4h%D1%A2E%8B%96%CA0%5B%B4h%D1%A2E%8B%96%CA%A0e%B6h%D1%A2E%8B%96%CA%A0e%B6h%D1%A2E%8B%16-%95a%B6h%D1%A2E%8B%16-%95A%CBl%D1%A2E%8B%16-%95A%CBl%D1%A2E%8B%16-Z*%C3l%D1%A2E%8B%16-Z*%83%96%D9%A2E%8B%16-Z*%83%96%D9%A2E%8B%16-Z%B4T%86%D9%A2E%8B%16-Z%B4T%06-%B3E%8B%16-Z%B4T%06-%B3E%8B%16-Z%B4h%A9%0C%B3E%8B%16-Z%B4h%A9%0CZf%8B%16-Z%B4h%A9%0CZf%8B%16-Z%B4h%D1R%19f%8B%16-Z%B4h%D1R%19%B4%CC%16-Z%B4h%D1R%19%B4%CC%16-Z%B4h%D1%A2%A52%CC%16-Z%B4h%D1%A2%A52h%99-Z%B4h%D1%A2%A52h%99-Z%B4h%D1%A2EKe%98-Z%B4h%D1%A2EKe%D02%5B%B4h%D1%A2EKe%D02%5B%B4h%D1%A2E%8B%96%CA0%5B%B4h%D1%A2E%8B%96%CA%A0e%B6h%D1%A2E%8B%96%CA%A0e%B6h%D1%A2E%8B%16-%95a%B6h%D1%A2E%8B%16-%95A%CBl%D1%A2E%8B%16-%95A%CBl%D1%A2E%8B%16-Z*%C3l%D1%A2E%8B%16-Z*%83%96%D9%A2E%8B%16-Z*%83%96%D9%A2E%8B%16-Z%B4T%86%D9%A2E%8B%16-Z%B4T%06-%B3E%8B%16-Z%B4T%06-%B3E%8B%16-Z%B4h%A9%0C%B3E%8B%16-Z%B4h%A9%0CZf%8B%16-Z%B4h%A9%0CZf%8B%16-Z%B4h%D1R%19f%8B%16-Z%B4h%D1R%19%B4%CC%16-Z%B4h%D1R%19%B4%CC%16-Z%B4h%D1%A2%A52%CC%16-Z%B4h%D1%A2%A52h%99-Z%B4h%D1%A2%A52h%99-Z%B4h%D1%A2EKe%98-Z%B4h%D1%A2EKe%D02%5B%B4h%D1%A2EKe%D02%5B%B4h%D1%A2E%8B%96%CA0%5B%B4h%D1%A2E%8B%96%CA%A0e%B6h%D1%A2E%8B%96%CA%A0e%B6h%D1%A2E%8B%16-%95a%B6h%D1%A2E%8B%16-%95A%CBl%D1%A2E%8B%16-%95A%CBl%D1%A2E%8B%16-Z*%C3l%D1%A2E%8B%16-Z*%83%96%D9%A2E%8B%16-Z*%83%96%D9%A2E%8B%16-Z%B4T%86%D9%A2E%8B%16-Z%B4T%06-%B3E%8B%16-Z%B4%AE%A4%F5%25%C0%00%DE%BF%5C'%0F%DA%B8q%00%00%00%00IEND%AEB%60%82") repeat-y !important;
+    border-left: 1px solid #BBBBBB !important;
+    border-right: 1px solid #000000 !important;
+    border-bottom: 1px dashed #BBBBBB !important;
+}
+
+.overflowRulerX > .firebugRulerV {
+    left: 0 !important;
+}
+
+.overflowRulerY > .firebugRulerH {
+    top: 0 !important;
+}
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+.fbProxyElement {
+    position: fixed !important;
+    pointer-events: auto !important;
+}
+</style>
+
+<!--###DataTables_jQuery###  -->
+<script src="http://code.jquery.com/jquery-1.11.2.min.js"></script>
+<script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="http://cdn.datatables.net/1.10.5/css/jquery.dataTables.min.css" media="all">
+<script src="http://cdn.datatables.net/1.10.5/js/jquery.dataTables.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+    
+    $(document).ready(function() {
+        $('#fleet').DataTable({
+               "paging":   false,
+               "info":    false, 
+        }
+            );
+    } );
+
+</script>
+<style class="firebugResetStyles" type="text/css" charset="utf-8">
+    #fleet  tbody td {
+        padding: 4px;
+
+    }
+</style>
+
+</head>
+<body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
+<br>    
+<table  style="border: 1px solid #d7d8d8;" width="787" cellpadding="4" cellspacing="0">
+          <tbody><tr>
+            <td>
+<table id="fleet" class="display" width="100%" border="0" cellpadding="4" cellspacing="1">
+  
+<thead>
+    <tr>
+        <td nowrap="nowrap"><b>Name</b></td>
+        <td nowrap="nowrap"><b>built</b></td>
+        <td nowrap="nowrap"><b>DWT</b></td>
+        <td nowrap="nowrap"><b>TEU</b></td>
+        <td nowrap="nowrap"><b>Cranes</b></td>
+        <td nowrap="nowrap"><b>Cargo Capacity</b></td>
+        <td nowrap="nowrap"><b>Type</b></td>
+    	<td nowrap="nowrap"><b>PDF</b></td>
+    </tr>
+</thead>
+<tbody>
+   <tr>
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=8"><b><font color="#1c73b8">Hanoi</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;01/2011</td>
+    <td nowrap="nowrap" ><div align="right">2.570</div></td>
+    <td nowrap="nowrap" ><div align="right">54</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">121.000 cbft</div></td>
+	<td nowrap="nowrap" >Combi Coaster&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/8_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=10"><b><font color="#1c73b8">Pride</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;06/2002</td>
+    <td nowrap="nowrap" ><div align="right">3.000</div></td>
+    <td nowrap="nowrap" ><div align="right">126</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">146.944 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel &nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/10_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=59"><b><font color="#1c73b8">Neptun</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;06/1998</td>
+    <td nowrap="nowrap" ><div align="right">3.150</div></td>
+    <td nowrap="nowrap" ><div align="right">154</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">141.259 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose  Vessel &nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/59_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=12"><b><font color="#1c73b8">Barbarossa</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;12/1999</td>
+    <td nowrap="nowrap" ><div align="right">3.200</div></td>
+    <td nowrap="nowrap" ><div align="right">132</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">168.875 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/12_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=13"><b><font color="#1c73b8">Saxum</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;11/2000</td>
+    <td nowrap="nowrap" ><div align="right">3.200</div></td>
+    <td nowrap="nowrap" ><div align="right">132</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">168.875 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/13_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=14"><b><font color="#1c73b8">Störtebeker</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;10/2000</td>
+    <td nowrap="nowrap" ><div align="right">3.200</div></td>
+    <td nowrap="nowrap" ><div align="right">132</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">168.875 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/14_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=15"><b><font color="#1c73b8">Mittelplate</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;03/2009</td>
+    <td nowrap="nowrap" ><div align="right">3.300</div></td>
+    <td nowrap="nowrap" ><div align="right">138</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">175.550 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/15_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=16"><b><font color="#1c73b8">Schillplate</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;09/2009</td>
+    <td nowrap="nowrap" ><div align="right">3.300</div></td>
+    <td nowrap="nowrap" ><div align="right">138</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">175.550 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/16_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=18"><b><font color="#1c73b8">Bonacieux</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;02/2010</td>
+    <td nowrap="nowrap" ><div align="right">3.300</div></td>
+    <td nowrap="nowrap" ><div align="right">138</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">175.550 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/18_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=19"><b><font color="#1c73b8">Hohe Bank</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;06/2010</td>
+    <td nowrap="nowrap" ><div align="right">3.300</div></td>
+    <td nowrap="nowrap" ><div align="right">138</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">175.550 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/19_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=20"><b><font color="#1c73b8">Accum</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;10/2010</td>
+    <td nowrap="nowrap" ><div align="right">3.300</div></td>
+    <td nowrap="nowrap" ><div align="right">138</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">175.550 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/20_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=21"><b><font color="#1c73b8">Rochefort</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;03/2011</td>
+    <td nowrap="nowrap" ><div align="right">3.300</div></td>
+    <td nowrap="nowrap" ><div align="right">138</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">175.550 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/21_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=22"><b><font color="#1c73b8">Constance</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;12/2011</td>
+    <td nowrap="nowrap" ><div align="right">3.300</div></td>
+    <td nowrap="nowrap" ><div align="right">138</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">175.550 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/22_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=131"><b><font color="#1c73b8">Schillig</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;07/2012</td>
+    <td nowrap="nowrap" ><div align="right">3.300</div></td>
+    <td nowrap="nowrap" ><div align="right">138</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">175.550 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/131_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=141"><b><font color="#1c73b8">Charelle II</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;02/2004</td>
+    <td nowrap="nowrap" ><div align="right">3.442</div></td>
+    <td nowrap="nowrap" ><div align="right">134</div></td>
+    <td nowrap="nowrap" >2 x 35 to</td>
+    <td nowrap="nowrap" ><div align="right">159.976 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/141_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=26"><b><font color="#1c73b8">Anmiro</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;01/2009</td>
+    <td nowrap="nowrap" ><div align="right">3.694</div></td>
+    <td nowrap="nowrap" ><div align="right">144</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">162.906 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel  &nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/26_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=27"><b><font color="#1c73b8">Anmare</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;11/2009</td>
+    <td nowrap="nowrap" ><div align="right">3.694</div></td>
+    <td nowrap="nowrap" ><div align="right">144</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">162.906 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/27_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=28"><b><font color="#1c73b8">Athos</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;12/1997</td>
+    <td nowrap="nowrap" ><div align="right">3.735</div></td>
+    <td nowrap="nowrap" ><div align="right">176</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">164.990 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/28_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=30"><b><font color="#1c73b8">Milady</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;12/2005</td>
+    <td nowrap="nowrap" ><div align="right">3.817</div></td>
+    <td nowrap="nowrap" ><div align="right">176</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">185.331 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/30_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=31"><b><font color="#1c73b8">Richelieu</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;11/2006</td>
+    <td nowrap="nowrap" ><div align="right">3.817</div></td>
+    <td nowrap="nowrap" ><div align="right">176</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">185.331 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/31_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=32"><b><font color="#1c73b8">Delamar</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;07/2011</td>
+    <td nowrap="nowrap" ><div align="right">4.060</div></td>
+    <td nowrap="nowrap" ><div align="right">134</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">197.935 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/32_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=33"><b><font color="#1c73b8">Calamar</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;01/2012</td>
+    <td nowrap="nowrap" ><div align="right">4.060</div></td>
+    <td nowrap="nowrap" ><div align="right">134</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">197.935 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/33_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=36"><b><font color="#1c73b8">BBC Sweden</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;01/2003</td>
+    <td nowrap="nowrap" ><div align="right">4.310</div></td>
+    <td nowrap="nowrap" ><div align="right">274</div></td>
+    <td nowrap="nowrap" >2 x 60 to</td>
+    <td nowrap="nowrap" ><div align="right">225.095 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/36_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=37"><b><font color="#1c73b8">BBC France</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;03/2005</td>
+    <td nowrap="nowrap" ><div align="right">4.310</div></td>
+    <td nowrap="nowrap" ><div align="right">274</div></td>
+    <td nowrap="nowrap" >2 x 60 to</td>
+    <td nowrap="nowrap" ><div align="right">225.095 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/37_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=38"><b><font color="#1c73b8">BBC Bulgaria</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;07/2004</td>
+    <td nowrap="nowrap" ><div align="right">4.310</div></td>
+    <td nowrap="nowrap" ><div align="right">274</div></td>
+    <td nowrap="nowrap" >2 x 60 to</td>
+    <td nowrap="nowrap" ><div align="right">225.095 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/38_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=39"><b><font color="#1c73b8">Geise</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;05/2006</td>
+    <td nowrap="nowrap" ><div align="right">4.310</div></td>
+    <td nowrap="nowrap" ><div align="right">274</div></td>
+    <td nowrap="nowrap" >2 x 60 to</td>
+    <td nowrap="nowrap" ><div align="right">225.095 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/39_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=40"><b><font color="#1c73b8">BBC Holland</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;04/2002</td>
+    <td nowrap="nowrap" ><div align="right">4.326</div></td>
+    <td nowrap="nowrap" ><div align="right">274</div></td>
+    <td nowrap="nowrap" >2 x 60 to</td>
+    <td nowrap="nowrap" ><div align="right">225.096 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/40_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=41"><b><font color="#1c73b8">Peter Rönna</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;06/2002</td>
+    <td nowrap="nowrap" ><div align="right">4.326</div></td>
+    <td nowrap="nowrap" ><div align="right">274</div></td>
+    <td nowrap="nowrap" >2 x 60 to</td>
+    <td nowrap="nowrap" ><div align="right">225.096 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/41_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=42"><b><font color="#1c73b8">BBC Romania</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;11/2006</td>
+    <td nowrap="nowrap" ><div align="right">4.326</div></td>
+    <td nowrap="nowrap" ><div align="right">274</div></td>
+    <td nowrap="nowrap" >2 x 60 to</td>
+    <td nowrap="nowrap" ><div align="right">225.096 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/42_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=43"><b><font color="#1c73b8">Cimbris</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;09/2003</td>
+    <td nowrap="nowrap" ><div align="right">4.525</div></td>
+    <td nowrap="nowrap" ><div align="right">262</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">225.100 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/43_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=44"><b><font color="#1c73b8">Nordersand</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;11/2004</td>
+    <td nowrap="nowrap" ><div align="right">4.525</div></td>
+    <td nowrap="nowrap" ><div align="right">262</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">225.100 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/44_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=45"><b><font color="#1c73b8">Ditzum</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;11/2005</td>
+    <td nowrap="nowrap" ><div align="right">4.525</div></td>
+    <td nowrap="nowrap" ><div align="right">262</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">225.100 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/45_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=46"><b><font color="#1c73b8">Randzel</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;08/2006</td>
+    <td nowrap="nowrap" ><div align="right">4.525</div></td>
+    <td nowrap="nowrap" ><div align="right">262</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">225.100 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/46_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=47"><b><font color="#1c73b8">BBC Anglia</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;03/1997</td>
+    <td nowrap="nowrap" ><div align="right">4.900</div></td>
+    <td nowrap="nowrap" ><div align="right">390</div></td>
+    <td nowrap="nowrap" >2 x 60 to</td>
+    <td nowrap="nowrap" ><div align="right">240.411 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/47_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=48"><b><font color="#1c73b8">Skaftafell</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;05/1997</td>
+    <td nowrap="nowrap" ><div align="right">4.900</div></td>
+    <td nowrap="nowrap" ><div align="right">390</div></td>
+    <td nowrap="nowrap" >2 x 60 to</td>
+    <td nowrap="nowrap" ><div align="right">240.411 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/48_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=49"><b><font color="#1c73b8">BBC Denmark</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;09/1999</td>
+    <td nowrap="nowrap" ><div align="right">4.900</div></td>
+    <td nowrap="nowrap" ><div align="right">377</div></td>
+    <td nowrap="nowrap" >2 x 60 mt</td>
+    <td nowrap="nowrap" ><div align="right">241.384 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/49_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=50"><b><font color="#1c73b8">BBC Canada</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;12/1999</td>
+    <td nowrap="nowrap" ><div align="right">4.900</div></td>
+    <td nowrap="nowrap" ><div align="right">377</div></td>
+    <td nowrap="nowrap" >2 x 60 to</td>
+    <td nowrap="nowrap" ><div align="right">241.384 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/50_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=51"><b><font color="#1c73b8">BBC Iceland</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;04/1999</td>
+    <td nowrap="nowrap" ><div align="right">4.900</div></td>
+    <td nowrap="nowrap" ><div align="right">390</div></td>
+    <td nowrap="nowrap" >2 x 60 to</td>
+    <td nowrap="nowrap" ><div align="right">240.140 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/51_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=53"><b><font color="#1c73b8">Island Trader</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;12/2001</td>
+    <td nowrap="nowrap" ><div align="right">4.900</div></td>
+    <td nowrap="nowrap" ><div align="right">390</div></td>
+    <td nowrap="nowrap" >2 x 80 to</td>
+    <td nowrap="nowrap" ><div align="right">241.411 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/53_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=54"><b><font color="#1c73b8">BBC Scotland</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;08/2002</td>
+    <td nowrap="nowrap" ><div align="right">4.900</div></td>
+    <td nowrap="nowrap" ><div align="right">390</div></td>
+    <td nowrap="nowrap" >2 x 80 to</td>
+    <td nowrap="nowrap" ><div align="right">241.411 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/54_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=55"><b><font color="#1c73b8">Medum</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;12/1998</td>
+    <td nowrap="nowrap" ><div align="right">5.200</div></td>
+    <td nowrap="nowrap" ><div align="right">400</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">255.501 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel &nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/55_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=56"><b><font color="#1c73b8">Jansum</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;04/1998</td>
+    <td nowrap="nowrap" ><div align="right">5.200</div></td>
+    <td nowrap="nowrap" ><div align="right">400</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">255.501 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel &nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/56_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=58"><b><font color="#1c73b8">Berum</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;03/1999</td>
+    <td nowrap="nowrap" ><div align="right">5.200</div></td>
+    <td nowrap="nowrap" ><div align="right">400</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">255.501 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/58_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=60"><b><font color="#1c73b8">S. Rafael</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;06/2000</td>
+    <td nowrap="nowrap" ><div align="right">5.539</div></td>
+    <td nowrap="nowrap" ><div align="right">505</div></td>
+    <td nowrap="nowrap" >2 x 40 to</td>
+    <td nowrap="nowrap" ><div align="right">253.453 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/60_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=61"><b><font color="#1c73b8">Ruby</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;04/2002</td>
+    <td nowrap="nowrap" ><div align="right">5.560</div></td>
+    <td nowrap="nowrap" ><div align="right">505</div></td>
+    <td nowrap="nowrap" >2 x 40 to</td>
+    <td nowrap="nowrap" ><div align="right">253.444 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/61_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=62"><b><font color="#1c73b8">Apolo</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;07/2003</td>
+    <td nowrap="nowrap" ><div align="right">5.565</div></td>
+    <td nowrap="nowrap" ><div align="right">505</div></td>
+    <td nowrap="nowrap" >2 x 40 to</td>
+    <td nowrap="nowrap" ><div align="right">253.444 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/62_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=63"><b><font color="#1c73b8">Langeland</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;06/1998</td>
+    <td nowrap="nowrap" ><div align="right">6.300</div></td>
+    <td nowrap="nowrap" ><div align="right">326</div></td>
+    <td nowrap="nowrap" >2 x 60 to</td>
+    <td nowrap="nowrap" ><div align="right">275.454 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/63_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=69"><b><font color="#1c73b8">BBC Magellan</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;11/2010</td>
+    <td nowrap="nowrap" ><div align="right">6.300</div></td>
+    <td nowrap="nowrap" ><div align="right">336</div></td>
+    <td nowrap="nowrap" >2 x 60 to</td>
+    <td nowrap="nowrap" ><div align="right">329.450 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/69_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=70"><b><font color="#1c73b8">BBC Ocean</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;03/2011</td>
+    <td nowrap="nowrap" ><div align="right">6.300</div></td>
+    <td nowrap="nowrap" ><div align="right">336</div></td>
+    <td nowrap="nowrap" >2 x 60 to</td>
+    <td nowrap="nowrap" ><div align="right">329.450 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/70_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=71"><b><font color="#1c73b8">BBC Pacific</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;11/2007</td>
+    <td nowrap="nowrap" ><div align="right">6.300</div></td>
+    <td nowrap="nowrap" ><div align="right">336</div></td>
+    <td nowrap="nowrap" >2 x 60 to</td>
+    <td nowrap="nowrap" ><div align="right">329.450 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/71_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=72"><b><font color="#1c73b8">BBC Baltic</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;04/2008</td>
+    <td nowrap="nowrap" ><div align="right">6.300</div></td>
+    <td nowrap="nowrap" ><div align="right">336</div></td>
+    <td nowrap="nowrap" >2 x 60 to</td>
+    <td nowrap="nowrap" ><div align="right">329.450 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/72_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=73"><b><font color="#1c73b8">Hollum</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;12/2009</td>
+    <td nowrap="nowrap" ><div align="right">6.300</div></td>
+    <td nowrap="nowrap" ><div align="right">336</div></td>
+    <td nowrap="nowrap" >2 x 60 to</td>
+    <td nowrap="nowrap" ><div align="right">329.450 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/73_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=74"><b><font color="#1c73b8">BBC Marmara</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;05/2010</td>
+    <td nowrap="nowrap" ><div align="right">6.300</div></td>
+    <td nowrap="nowrap" ><div align="right">336</div></td>
+    <td nowrap="nowrap" >2 x 60 to</td>
+    <td nowrap="nowrap" ><div align="right">329.450 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/74_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=75"><b><font color="#1c73b8">BBC Adriatic</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;02/2008</td>
+    <td nowrap="nowrap" ><div align="right">6.300</div></td>
+    <td nowrap="nowrap" ><div align="right">336</div></td>
+    <td nowrap="nowrap" >2 x 60 to</td>
+    <td nowrap="nowrap" ><div align="right">329.450 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/75_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=76"><b><font color="#1c73b8">BBC Caribbean</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;11/2008</td>
+    <td nowrap="nowrap" ><div align="right">6.300</div></td>
+    <td nowrap="nowrap" ><div align="right">336</div></td>
+    <td nowrap="nowrap" >2 x 60 to</td>
+    <td nowrap="nowrap" ><div align="right">329.450 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/76_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=77"><b><font color="#1c73b8">BBC Atlantic</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;07/2005</td>
+    <td nowrap="nowrap" ><div align="right">6.300</div></td>
+    <td nowrap="nowrap" ><div align="right">336</div></td>
+    <td nowrap="nowrap" >2 x 60 to</td>
+    <td nowrap="nowrap" ><div align="right">329.450 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/77_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=64"><b><font color="#1c73b8">Andante</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;04/2005</td>
+    <td nowrap="nowrap" ><div align="right">6.420</div></td>
+    <td nowrap="nowrap" ><div align="right">336</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">329.450 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/64_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=67"><b><font color="#1c73b8">Ostermarsch</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;10/2008</td>
+    <td nowrap="nowrap" ><div align="right">6.420</div></td>
+    <td nowrap="nowrap" ><div align="right">336</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">329.450 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/67_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=68"><b><font color="#1c73b8">Ameland</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;03/2009</td>
+    <td nowrap="nowrap" ><div align="right">6.420</div></td>
+    <td nowrap="nowrap" ><div align="right">336</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">329.450 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/68_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=65"><b><font color="#1c73b8">Emma Janneke</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;07/2006</td>
+    <td nowrap="nowrap" ><div align="right">6.500</div></td>
+    <td nowrap="nowrap" ><div align="right">336</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">329.450 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/65_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=66"><b><font color="#1c73b8">Amke</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;10/2006</td>
+    <td nowrap="nowrap" ><div align="right">6.500</div></td>
+    <td nowrap="nowrap" ><div align="right">336</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">329.450 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/66_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=7"><b><font color="#1c73b8">Anna</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;05/2011</td>
+    <td nowrap="nowrap" ><div align="right">7.700</div></td>
+    <td nowrap="nowrap" ><div align="right">306</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">343.556 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/7_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=78"><b><font color="#1c73b8">BBC Europe</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;03/2003</td>
+    <td nowrap="nowrap" ><div align="right">7.700</div></td>
+    <td nowrap="nowrap" ><div align="right">601</div></td>
+    <td nowrap="nowrap" >2 x 250 to</td>
+    <td nowrap="nowrap" ><div align="right">406.120 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Heavy Lifter / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/78_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=79"><b><font color="#1c73b8">BBC Asia</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;05/2003</td>
+    <td nowrap="nowrap" ><div align="right">7.700</div></td>
+    <td nowrap="nowrap" ><div align="right">601</div></td>
+    <td nowrap="nowrap" >2 x 250 to</td>
+    <td nowrap="nowrap" ><div align="right">406.120 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Heavy Lifter / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/79_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=80"><b><font color="#1c73b8">BBC Germany</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;11/2003</td>
+    <td nowrap="nowrap" ><div align="right">7.700</div></td>
+    <td nowrap="nowrap" ><div align="right">601</div></td>
+    <td nowrap="nowrap" >2 x 250 to</td>
+    <td nowrap="nowrap" ><div align="right">406.120 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Heavy Lifter / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/80_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=81"><b><font color="#1c73b8">BBC Africa</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;01/2006</td>
+    <td nowrap="nowrap" ><div align="right">7.700</div></td>
+    <td nowrap="nowrap" ><div align="right">601</div></td>
+    <td nowrap="nowrap" >2 x 250 to</td>
+    <td nowrap="nowrap" ><div align="right">406.120 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Heavy Lifter / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/81_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=82"><b><font color="#1c73b8">BBC Scandinavia</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;01/2007</td>
+    <td nowrap="nowrap" ><div align="right">7.700</div></td>
+    <td nowrap="nowrap" ><div align="right">601</div></td>
+    <td nowrap="nowrap" >2 x 250 to</td>
+    <td nowrap="nowrap" ><div align="right">406.120 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Heavy Lifter / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/82_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=83"><b><font color="#1c73b8">BBC Greenland</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;04/2007</td>
+    <td nowrap="nowrap" ><div align="right">7.700</div></td>
+    <td nowrap="nowrap" ><div align="right">601</div></td>
+    <td nowrap="nowrap" >2 x 250 to</td>
+    <td nowrap="nowrap" ><div align="right">406.120 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Heavy Lifter / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/83_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=84"><b><font color="#1c73b8">BBC Switzerland</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;12/2008</td>
+    <td nowrap="nowrap" ><div align="right">7.700</div></td>
+    <td nowrap="nowrap" ><div align="right">601</div></td>
+    <td nowrap="nowrap" >2 x 250 to</td>
+    <td nowrap="nowrap" ><div align="right">406.120 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Heavy Lifter / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/84_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=85"><b><font color="#1c73b8">BBC Austria</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;03/2009</td>
+    <td nowrap="nowrap" ><div align="right">7.700</div></td>
+    <td nowrap="nowrap" ><div align="right">601</div></td>
+    <td nowrap="nowrap" >2 x 250 to</td>
+    <td nowrap="nowrap" ><div align="right">406.120 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Heavy Lifter / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/85_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=89"><b><font color="#1c73b8">Ostbense</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;01/2011</td>
+    <td nowrap="nowrap" ><div align="right">7.700</div></td>
+    <td nowrap="nowrap" ><div align="right">306</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">343.556 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/89_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=86"><b><font color="#1c73b8">BBC Kwiatkowski</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;09/2008</td>
+    <td nowrap="nowrap" ><div align="right">7.787</div></td>
+    <td nowrap="nowrap" ><div align="right">532</div></td>
+    <td nowrap="nowrap" >2 x 120 to</td>
+    <td nowrap="nowrap" ><div align="right">348.061 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/86_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=87"><b><font color="#1c73b8">BBC Gdansk</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;01/2009</td>
+    <td nowrap="nowrap" ><div align="right">7.787</div></td>
+    <td nowrap="nowrap" ><div align="right">532</div></td>
+    <td nowrap="nowrap" >2 x 120 to</td>
+    <td nowrap="nowrap" ><div align="right">348.061 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/87_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=88"><b><font color="#1c73b8">BBC Polonia</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;05/2010</td>
+    <td nowrap="nowrap" ><div align="right">7.787</div></td>
+    <td nowrap="nowrap" ><div align="right">532</div></td>
+    <td nowrap="nowrap" >2 x 120 to</td>
+    <td nowrap="nowrap" ><div align="right">348.061 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/88_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=90"><b><font color="#1c73b8">BBC Nordland</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;09/2000</td>
+    <td nowrap="nowrap" ><div align="right">7.800</div></td>
+    <td nowrap="nowrap" ><div align="right">374</div></td>
+    <td nowrap="nowrap" >2 x 80 to</td>
+    <td nowrap="nowrap" ><div align="right">367.307 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/90_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=91"><b><font color="#1c73b8">BBC Northsea</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;12/2000</td>
+    <td nowrap="nowrap" ><div align="right">7.800</div></td>
+    <td nowrap="nowrap" ><div align="right">374</div></td>
+    <td nowrap="nowrap" >2 x 80 to</td>
+    <td nowrap="nowrap" ><div align="right">367.307 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/91_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=92"><b><font color="#1c73b8">BBC Bergen</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;01/2011</td>
+    <td nowrap="nowrap" ><div align="right">8.000</div></td>
+    <td nowrap="nowrap" ><div align="right">459</div></td>
+    <td nowrap="nowrap" >2 x 80 to</td>
+    <td nowrap="nowrap" ><div align="right">406.365 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/92_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=93"><b><font color="#1c73b8">BBC Bangkok</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;08/2011</td>
+    <td nowrap="nowrap" ><div align="right">8.000</div></td>
+    <td nowrap="nowrap" ><div align="right">459</div></td>
+    <td nowrap="nowrap" >2 x 80 to</td>
+    <td nowrap="nowrap" ><div align="right">406.365 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/93_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=94"><b><font color="#1c73b8">BBC Belem</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;12/2011</td>
+    <td nowrap="nowrap" ><div align="right">8.000</div></td>
+    <td nowrap="nowrap" ><div align="right">459</div></td>
+    <td nowrap="nowrap" >2 x 80 to</td>
+    <td nowrap="nowrap" ><div align="right">406.365 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/94_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=95"><b><font color="#1c73b8">BBC Balboa</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;03/2012</td>
+    <td nowrap="nowrap" ><div align="right">8.000</div></td>
+    <td nowrap="nowrap" ><div align="right">459</div></td>
+    <td nowrap="nowrap" >2 x 80 to</td>
+    <td nowrap="nowrap" ><div align="right">406.365 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker &nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/95_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=133"><b><font color="#1c73b8">BBC Brisbane</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;05/2012</td>
+    <td nowrap="nowrap" ><div align="right">8.000</div></td>
+    <td nowrap="nowrap" ><div align="right">459</div></td>
+    <td nowrap="nowrap" >2 x 80 to</td>
+    <td nowrap="nowrap" ><div align="right">406.365 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/133_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=135"><b><font color="#1c73b8">BBC Bahrain</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;10/2012</td>
+    <td nowrap="nowrap" ><div align="right">8.000</div></td>
+    <td nowrap="nowrap" ><div align="right">459</div></td>
+    <td nowrap="nowrap" >2 x 80 to</td>
+    <td nowrap="nowrap" ><div align="right">406.365 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/135_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=137"><b><font color="#1c73b8">Mila</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;01/2013</td>
+    <td nowrap="nowrap" ><div align="right">8.250</div></td>
+    <td nowrap="nowrap" ><div align="right">459</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">406.365 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/137_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=140"><b><font color="#1c73b8">Louis</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;05/2013</td>
+    <td nowrap="nowrap" ><div align="right">8.250</div></td>
+    <td nowrap="nowrap" ><div align="right">459</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">406.365 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/140_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=96"><b><font color="#1c73b8">BBC Everest</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;03/2011</td>
+    <td nowrap="nowrap" ><div align="right">9.600</div></td>
+    <td nowrap="nowrap" ><div align="right">660</div></td>
+    <td nowrap="nowrap" >2 x 350 to</td>
+    <td nowrap="nowrap" ><div align="right">463.293 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Heavy Lifter / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/96_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=97"><b><font color="#1c73b8">BBC Fuji</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;06/2011</td>
+    <td nowrap="nowrap" ><div align="right">9.600</div></td>
+    <td nowrap="nowrap" ><div align="right">660</div></td>
+    <td nowrap="nowrap" >2 x 350 to</td>
+    <td nowrap="nowrap" ><div align="right">463.293 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Heavy Lifter / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/97_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=98"><b><font color="#1c73b8">BBC Kibo</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;09/2011</td>
+    <td nowrap="nowrap" ><div align="right">9.600</div></td>
+    <td nowrap="nowrap" ><div align="right">660</div></td>
+    <td nowrap="nowrap" >2 x 350 to</td>
+    <td nowrap="nowrap" ><div align="right">463.293 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Heavy Lifter / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/98_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=99"><b><font color="#1c73b8">BBC Mont Blanc</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;12/2011</td>
+    <td nowrap="nowrap" ><div align="right">9.600</div></td>
+    <td nowrap="nowrap" ><div align="right">660</div></td>
+    <td nowrap="nowrap" >2 x 350 to</td>
+    <td nowrap="nowrap" ><div align="right">463.293 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Heavy Lifter / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/99_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=100"><b><font color="#1c73b8">BBC Olympus</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;04/2012</td>
+    <td nowrap="nowrap" ><div align="right">9.600</div></td>
+    <td nowrap="nowrap" ><div align="right">660</div></td>
+    <td nowrap="nowrap" >2 x 350 to</td>
+    <td nowrap="nowrap" ><div align="right">463.293 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Heavy Lifter / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/100_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=132"><b><font color="#1c73b8">BBC Rushmore</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;07/2012</td>
+    <td nowrap="nowrap" ><div align="right">9.600</div></td>
+    <td nowrap="nowrap" ><div align="right">660</div></td>
+    <td nowrap="nowrap" >2 x 350 to</td>
+    <td nowrap="nowrap" ><div align="right">463.293 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Heavy Lifter / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/132_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=136"><b><font color="#1c73b8">BBC Vesuvius</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;11/2012</td>
+    <td nowrap="nowrap" ><div align="right">9.600</div></td>
+    <td nowrap="nowrap" ><div align="right">660</div></td>
+    <td nowrap="nowrap" >2 x 350 to</td>
+    <td nowrap="nowrap" ><div align="right">463.293 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Heavy Lifter / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/136_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=139"><b><font color="#1c73b8">BBC Xingang</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;05/2013</td>
+    <td nowrap="nowrap" ><div align="right">9.600</div></td>
+    <td nowrap="nowrap" ><div align="right">660</div></td>
+    <td nowrap="nowrap" >2 x 350 to</td>
+    <td nowrap="nowrap" ><div align="right">463.293 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Heavy Lifter / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/139_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=101"><b><font color="#1c73b8">BBC Skysails</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;01/2008</td>
+    <td nowrap="nowrap" ><div align="right">9.821</div></td>
+    <td nowrap="nowrap" ><div align="right">474</div></td>
+    <td nowrap="nowrap" >2 x 40 to</td>
+    <td nowrap="nowrap" ><div align="right">452.804 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/101_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=102"><b><font color="#1c73b8">BBC Jade</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;01/2008</td>
+    <td nowrap="nowrap" ><div align="right">12.000</div></td>
+    <td nowrap="nowrap" ><div align="right">684</div></td>
+    <td nowrap="nowrap" >2 x 80 to</td>
+    <td nowrap="nowrap" ><div align="right">613.239 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/102_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=103"><b><font color="#1c73b8">BBC Tennessee</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;06/2008</td>
+    <td nowrap="nowrap" ><div align="right">12.780</div></td>
+    <td nowrap="nowrap" ><div align="right">665</div></td>
+    <td nowrap="nowrap" >2 x 180 to</td>
+    <td nowrap="nowrap" ><div align="right">563.339 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Heavy Lifter / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/103_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=104"><b><font color="#1c73b8">BBC Oregon</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;08/2010</td>
+    <td nowrap="nowrap" ><div align="right">12.780</div></td>
+    <td nowrap="nowrap" ><div align="right">665</div></td>
+    <td nowrap="nowrap" >2 x 180 to</td>
+    <td nowrap="nowrap" ><div align="right">563.339 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Heavy Lifter / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/104_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=105"><b><font color="#1c73b8">BBC Virginia</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;01/2011</td>
+    <td nowrap="nowrap" ><div align="right">12.780</div></td>
+    <td nowrap="nowrap" ><div align="right">665</div></td>
+    <td nowrap="nowrap" >2 x 180 to</td>
+    <td nowrap="nowrap" ><div align="right">563.339 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Heavy Lifter / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/105_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=106"><b><font color="#1c73b8">Norderoog</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;11/2004</td>
+    <td nowrap="nowrap" ><div align="right">17.000</div></td>
+    <td nowrap="nowrap" ><div align="right">1.402</div></td>
+    <td nowrap="nowrap" >2 x 45 to</td>
+    <td nowrap="nowrap" ><div align="right">947.814 cbft</div></td>
+	<td nowrap="nowrap" >Container Vessel&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/106_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=107"><b><font color="#1c73b8">Süderoog</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;12/2005</td>
+    <td nowrap="nowrap" ><div align="right">17.000</div></td>
+    <td nowrap="nowrap" ><div align="right">1.402</div></td>
+    <td nowrap="nowrap" >2 x 45 to</td>
+    <td nowrap="nowrap" ><div align="right">947.814 cbft</div></td>
+	<td nowrap="nowrap" >Container Vessel&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/107_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=108"><b><font color="#1c73b8">Hooge</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;07/2006</td>
+    <td nowrap="nowrap" ><div align="right">17.000</div></td>
+    <td nowrap="nowrap" ><div align="right">1.402</div></td>
+    <td nowrap="nowrap" >2 x 45 to</td>
+    <td nowrap="nowrap" ><div align="right">947.814 cbft</div></td>
+	<td nowrap="nowrap" >Container Vessel&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/108_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=109"><b><font color="#1c73b8">Langeness</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;12/2006</td>
+    <td nowrap="nowrap" ><div align="right">17.000</div></td>
+    <td nowrap="nowrap" ><div align="right">1.402</div></td>
+    <td nowrap="nowrap" >2 x 45 to</td>
+    <td nowrap="nowrap" ><div align="right">947.814 cbft</div></td>
+	<td nowrap="nowrap" >Container Vessel&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/109_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=110"><b><font color="#1c73b8">Petkum</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;09/2008</td>
+    <td nowrap="nowrap" ><div align="right">17.000</div></td>
+    <td nowrap="nowrap" ><div align="right">1.402</div></td>
+    <td nowrap="nowrap" >2 x 45 to</td>
+    <td nowrap="nowrap" ><div align="right">947.814 cbft</div></td>
+	<td nowrap="nowrap" >Container Vessel&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/110_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=111"><b><font color="#1c73b8">Wybelsum</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;06/2008</td>
+    <td nowrap="nowrap" ><div align="right">17.094</div></td>
+    <td nowrap="nowrap" ><div align="right">1.402</div></td>
+    <td nowrap="nowrap" >gearless</td>
+    <td nowrap="nowrap" ><div align="right">947.814 cbft</div></td>
+	<td nowrap="nowrap" >Container Vessel&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/111_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=112"><b><font color="#1c73b8">BBC Ems</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;06/2006</td>
+    <td nowrap="nowrap" ><div align="right">17.500</div></td>
+    <td nowrap="nowrap" ><div align="right">958</div></td>
+    <td nowrap="nowrap" >3 x 80 to</td>
+    <td nowrap="nowrap" ><div align="right">766.222 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/112_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=113"><b><font color="#1c73b8">BBC Weser</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;08/2006</td>
+    <td nowrap="nowrap" ><div align="right">17.500</div></td>
+    <td nowrap="nowrap" ><div align="right">958</div></td>
+    <td nowrap="nowrap" >3 x 80 to</td>
+    <td nowrap="nowrap" ><div align="right">766.222 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/113_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=114"><b><font color="#1c73b8">BBC Elbe</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;10/2006</td>
+    <td nowrap="nowrap" ><div align="right">17.500</div></td>
+    <td nowrap="nowrap" ><div align="right">958</div></td>
+    <td nowrap="nowrap" >3 x 80 to</td>
+    <td nowrap="nowrap" ><div align="right">766.222 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/114_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=115"><b><font color="#1c73b8">BBC Mississippi</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;12/2006</td>
+    <td nowrap="nowrap" ><div align="right">17.500</div></td>
+    <td nowrap="nowrap" ><div align="right">958</div></td>
+    <td nowrap="nowrap" >3 x 80 to</td>
+    <td nowrap="nowrap" ><div align="right">766.222 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/115_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=116"><b><font color="#1c73b8">BBC Amazon</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;06/2007</td>
+    <td nowrap="nowrap" ><div align="right">17.500</div></td>
+    <td nowrap="nowrap" ><div align="right">958</div></td>
+    <td nowrap="nowrap" >3 x 80 to</td>
+    <td nowrap="nowrap" ><div align="right">766.222 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/116_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=117"><b><font color="#1c73b8">Sjard</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;09/2007</td>
+    <td nowrap="nowrap" ><div align="right">17.500</div></td>
+    <td nowrap="nowrap" ><div align="right">958</div></td>
+    <td nowrap="nowrap" >3 x 80 to</td>
+    <td nowrap="nowrap" ><div align="right">766.222 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/117_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=118"><b><font color="#1c73b8">Kurt Paul</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;05/2009</td>
+    <td nowrap="nowrap" ><div align="right">17.500</div></td>
+    <td nowrap="nowrap" ><div align="right">958</div></td>
+    <td nowrap="nowrap" >3 x 80 to</td>
+    <td nowrap="nowrap" ><div align="right">766.222 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/118_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=119"><b><font color="#1c73b8">BBC Hudson</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;08/2009</td>
+    <td nowrap="nowrap" ><div align="right">17.500</div></td>
+    <td nowrap="nowrap" ><div align="right">958</div></td>
+    <td nowrap="nowrap" >3 x 80 to</td>
+    <td nowrap="nowrap" ><div align="right">766.222 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/119_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=120"><b><font color="#1c73b8">BBC Volga</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;10/2009</td>
+    <td nowrap="nowrap" ><div align="right">17.500</div></td>
+    <td nowrap="nowrap" ><div align="right">958</div></td>
+    <td nowrap="nowrap" >3 x 80 to</td>
+    <td nowrap="nowrap" ><div align="right">766.222 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/120_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=121"><b><font color="#1c73b8">BBC Congo</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;01/2010</td>
+    <td nowrap="nowrap" ><div align="right">18.000</div></td>
+    <td nowrap="nowrap" ><div align="right">958</div></td>
+    <td nowrap="nowrap" >2 x 250 to /1 x 80 to</td>
+    <td nowrap="nowrap" ><div align="right">766.222 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Heavy Lifter / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/121_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=122"><b><font color="#1c73b8">BBC Ganges</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;04/2010</td>
+    <td nowrap="nowrap" ><div align="right">18.000</div></td>
+    <td nowrap="nowrap" ><div align="right">958</div></td>
+    <td nowrap="nowrap" >2 x 250 to /1 x 80 to</td>
+    <td nowrap="nowrap" ><div align="right">766.222 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Heavy Lifter / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/122_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=123"><b><font color="#1c73b8">BBC Oder</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;07/2010</td>
+    <td nowrap="nowrap" ><div align="right">18.000</div></td>
+    <td nowrap="nowrap" ><div align="right">958</div></td>
+    <td nowrap="nowrap" >2 x 250 to  /1 x 80 to</td>
+    <td nowrap="nowrap" ><div align="right">766.222 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Heavy Lifter / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/123_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=124"><b><font color="#1c73b8">BBC Seine</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;10/2010</td>
+    <td nowrap="nowrap" ><div align="right">18.000</div></td>
+    <td nowrap="nowrap" ><div align="right">958</div></td>
+    <td nowrap="nowrap" >2 x 250 to /1x 80 to</td>
+    <td nowrap="nowrap" ><div align="right">766.222 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Heavy Lifter / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/124_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=125"><b><font color="#1c73b8">BBC Nile</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;03/2011</td>
+    <td nowrap="nowrap" ><div align="right">18.000</div></td>
+    <td nowrap="nowrap" ><div align="right">958</div></td>
+    <td nowrap="nowrap" >2 x 250 to/ 1 x 80 to</td>
+    <td nowrap="nowrap" ><div align="right">766.222 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Heavy Lifter / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/125_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=134"><b><font color="#1c73b8">BBC Parana</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;09/2012</td>
+    <td nowrap="nowrap" ><div align="right">18.000</div></td>
+    <td nowrap="nowrap" ><div align="right">958</div></td>
+    <td nowrap="nowrap" >2 x 250 to/ 1 x 80 to</td>
+    <td nowrap="nowrap" ><div align="right">766.222 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Heavy Lifter / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/134_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=138"><b><font color="#1c73b8">BBC Danube</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;01/2013</td>
+    <td nowrap="nowrap" ><div align="right">18.000</div></td>
+    <td nowrap="nowrap" ><div align="right">958</div></td>
+    <td nowrap="nowrap" >2 x 250 to/ 1 x 80 to</td>
+    <td nowrap="nowrap" ><div align="right">766.222 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Heavy Lifter / Tweendecker&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/138_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=127"><b><font color="#1c73b8">BBC Ostfriesland</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;02/1998</td>
+    <td nowrap="nowrap" ><div align="right">20.567</div></td>
+    <td nowrap="nowrap" ><div align="right">1.302</div></td>
+    <td nowrap="nowrap" >2 x 60 to</td>
+    <td nowrap="nowrap" ><div align="right">877.887 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/127_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=128"><b><font color="#1c73b8">BBC Rheiderland</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;01/2000</td>
+    <td nowrap="nowrap" ><div align="right">20.567</div></td>
+    <td nowrap="nowrap" ><div align="right">1.302</div></td>
+    <td nowrap="nowrap" >2 x 60 to</td>
+    <td nowrap="nowrap" ><div align="right">887.952 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/128_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=129"><b><font color="#1c73b8">BBC Bunde</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;06/1998</td>
+    <td nowrap="nowrap" ><div align="right">20.567</div></td>
+    <td nowrap="nowrap" ><div align="right">1.302</div></td>
+    <td nowrap="nowrap" >2 x 60 to</td>
+    <td nowrap="nowrap" ><div align="right">887.952 cbft</div></td>
+	<td nowrap="nowrap" >Multipurpose Vessel&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/129_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=11"><b><font color="#1c73b8">BBC Neptune</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;08/2010</td>
+    <td nowrap="nowrap" ><div align="right">37.300</div></td>
+    <td nowrap="nowrap" ><div align="right">0</div></td>
+    <td nowrap="nowrap" >4 x 30 to</td>
+    <td nowrap="nowrap" ><div align="right">1.728.829 cbft</div></td>
+	<td nowrap="nowrap" >Bulk Carrier&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/11_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+  <tr>
+
+
+    <td nowrap="nowrap" ><a href="http://www.briese.de/index.php?id=147&amp;L=1%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Result:%20%ED%E5%20%ED%E0%F8%EB%EE%F1%FC%20%F4%EE%F0%EC%FB%20%E4%EB%FF%20%EE%F2%EF%F0%E0%E2%EA%E8;&amp;sid=130"><b><font color="#1c73b8">BBC Pluto</font></b></a> </td>
+    <td nowrap="nowrap" >&nbsp;10/2010</td>
+    <td nowrap="nowrap" ><div align="right">37.500</div></td>
+    <td nowrap="nowrap" ><div align="right">0</div></td>
+    <td nowrap="nowrap" >4 x 30 to</td>
+    <td nowrap="nowrap" ><div align="right">1.728.829 cbft</div></td>
+	<td nowrap="nowrap" >Bulk Carrier&nbsp;</td>
+	<td nowrap="nowrap" > <a href="http://www.briese.de/fileadmin/fleet/prospekte/130_prospekt.pdf" target="_blank">Download </a>   </td>  
+	  </tr>
+
+  
+</tbody></table>
+</td>
+  </tr>
+</tbody></table>
+<!--?</div-->
+	<!--  CONTENT ELEMENT, uid:788/page_php_content_pi1 [end] -->
+		</div></div></td>
+      </tr>
+      <tr>
+        <td width="33%"><table width="98%" border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr bgcolor="#c1d9f1">
+              <td colspan="3" width="99%" height="1"><img src="Briese%20Schiffahrts%20GmbH%20&amp;%20Co.%20KG:%20Fleet_files/1x1.gif" alt="" width="1" height="1"></td>
+            </tr>
+            <tr>
+              <td><a href="#top" class="footer">Top </a></td>
+              <td valign="middle" align="center"><div align="center"><a class="footer" href="http://www.briese.de./impressum.html">Impressum</a></div></td>
+              <td class="footer" align="right"><div align="right"><a href="http://www.briese.de/flotte-briese-all-types1.98.html" name="Drucken" title="Drucken" target="_blank" class="print">Print</a></div></td>
+            </tr>
+            <tr>
+              <td height="10">&nbsp;</td>
+              <td valign="middle" align="center" height="10">&nbsp;</td>
+              <td class="footer" align="right" height="10">&nbsp;</td>
+            </tr>
+        </tbody></table></td>
+      </tr>
+    </tbody></table></td>
+    <td></td>
+  </tr>
+</tbody></table>
+</div>
+<!--###DOCUMENT_BODY###  stop-->
+
+
+
+
+
+<div style="display: none;" id="overlay"></div><div style="display: none;" id="lbLightbox"><div style="width: 250px; height: 250px;" id="lbOuterImageContainer"><div id="lbImageContainer"><img id="lightboxImage"><div id="lbHoverNav"><a href="#" id="prevLink"></a><a href="#" id="nextLink"></a></div><div id="lbLoading"><a href="#" id="loadingLink"></a></div></div></div><div id="lbImageDataContainer"><div id="lbImageData"><div id="lbImageDetails"><span id="lbCaption"></span><span id="lbNumber"></span><span id="lbPresent"></span></div><div id="bottomNav"><a href="#" id="playLink"></a><a href="#" id="pauseLink"></a><a href="#" id="closeLink"></a></div></div></div></div></body></html>
